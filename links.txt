@@ -2,3 +2,7 @@ https://www.electronicshub.org/basics-of-embedded-c-program/
 https://www.electronicshub.org/embedded-system-real-time-applications/
 https://www.eng.auburn.edu/~nelson/courses/elec3040_3050/C%20programming%20for%20embedded%20system%20applications.pdf
 https://www.javatpoint.com/embedded-system-c-programming
+
+UNIX:
+https://www.tutorialspoint.com/unix/unix-getting-started.htm
+https://www.educba.com/what-is-unix/
