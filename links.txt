@@ -6,3 +6,5 @@ https://www.javatpoint.com/embedded-system-c-programming
 UNIX:
 https://www.tutorialspoint.com/unix/unix-getting-started.htm
 https://www.educba.com/what-is-unix/
+https://www.howtogeek.com/182649/htg-explains-what-is-unix/
+https://www.howtogeek.com/117939/htg-explains-what-everything-is-a-file-means-on-linux/
